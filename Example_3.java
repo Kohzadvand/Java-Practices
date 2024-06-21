@@ -7,7 +7,7 @@ public class Kohzadvand {
    {
           System.out.println("Example 3 ");
       System.out.println("THIS PROGRAM HAS BEEN WRITTEN BE REZA KOHZADVAND ");
-      System.out.println("********");
+      System.out.println("******************************");
       System.out.println();
           
 
