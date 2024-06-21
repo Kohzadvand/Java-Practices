@@ -4,7 +4,7 @@ public class Kohzadvand {
     public static void main(String[] args)
 
     {
-     System.out.println("Example 1 ");
+     System.out.println("Example 4 ");
       System.out.println("THIS PROGRAM HAS BEEN WRITTEN BE REZA KOHZADVAND ");
       System.out.println("****************************");
       System.out.println();
